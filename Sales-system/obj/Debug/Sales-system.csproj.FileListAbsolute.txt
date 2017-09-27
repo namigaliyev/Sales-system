@@ -1,0 +1,6 @@
+C:\Users\Namig\Desktop\Visual_Studio2015\Projects\Sales-system\Sales-system\bin\Debug\Sales-system.exe.config
+C:\Users\Namig\Desktop\Visual_Studio2015\Projects\Sales-system\Sales-system\bin\Debug\Sales-system.exe
+C:\Users\Namig\Desktop\Visual_Studio2015\Projects\Sales-system\Sales-system\bin\Debug\Sales-system.pdb
+C:\Users\Namig\Desktop\Visual_Studio2015\Projects\Sales-system\Sales-system\obj\Debug\Sales-system.csprojResolveAssemblyReference.cache
+C:\Users\Namig\Desktop\Visual_Studio2015\Projects\Sales-system\Sales-system\obj\Debug\Sales-system.exe
+C:\Users\Namig\Desktop\Visual_Studio2015\Projects\Sales-system\Sales-system\obj\Debug\Sales-system.pdb
